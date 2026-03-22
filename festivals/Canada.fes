@@ -1,0 +1,88 @@
+{
+  "DataKeyPairDictionary": {
+    "Victoria Day": {
+      "Name": "Victoria Day",
+      "Photos": {
+        "1999": "May 24", "2000": "May 22", "2001": "May 21", "2002": "May 20",
+        "2003": "May 19", "2004": "May 24", "2005": "May 23", "2006": "May 22",
+        "2007": "May 21", "2008": "May 19", "2009": "May 18", "2010": "May 24",
+        "2011": "May 23", "2012": "May 21", "2013": "May 20", "2014": "May 19",
+        "2015": "May 18", "2016": "May 23", "2017": "May 22", "2018": "May 21",
+        "2019": "May 20", "2020": "May 18", "2021": "May 24", "2022": "May 23",
+        "2023": "May 22", "2024": "May 20", "2025": "May 19", "2026": "May 18"
+      }
+    },
+    "Canada Day": {
+      "Name": "Canada Day",
+      "Photos": {
+        "1999": "July 1", "2000": "July 1", "2001": "July 1", "2002": "July 1",
+        "2003": "July 1", "2004": "July 1", "2005": "July 1", "2006": "July 1",
+        "2007": "July 1", "2008": "July 1", "2009": "July 1", "2010": "July 1",
+        "2011": "July 1", "2012": "July 1", "2013": "July 1", "2014": "July 1",
+        "2015": "July 1", "2016": "July 1", "2017": "July 1", "2018": "July 1",
+        "2019": "July 1", "2020": "July 1", "2021": "July 1", "2022": "July 1",
+        "2023": "July 1", "2024": "July 1", "2025": "July 1", "2026": "July 1"
+      }
+    },
+    "Labour Day": {
+      "Name": "Labour Day",
+      "Photos": {
+        "1999": "September 6", "2000": "September 4", "2001": "September 3", "2002": "September 2",
+        "2003": "September 1", "2004": "September 6", "2005": "September 5", "2006": "September 4",
+        "2007": "September 3", "2008": "September 1", "2009": "September 7", "2010": "September 6",
+        "2011": "September 5", "2012": "September 3", "2013": "September 2", "2014": "September 1",
+        "2015": "September 7", "2016": "September 5", "2017": "September 4", "2018": "September 3",
+        "2019": "September 2", "2020": "September 7", "2021": "September 6", "2022": "September 5",
+        "2023": "September 4", "2024": "September 2", "2025": "September 1", "2026": "September 7"
+      }
+    },
+    "Thanksgiving": {
+      "Name": "Thanksgiving",
+      "Photos": {
+        "1999": "October 11", "2000": "October 9", "2001": "October 8", "2002": "October 14",
+        "2003": "October 13", "2004": "October 11", "2005": "October 10", "2006": "October 9",
+        "2007": "October 8", "2008": "October 13", "2009": "October 12", "2010": "October 11",
+        "2011": "October 10", "2012": "October 8", "2013": "October 14", "2014": "October 13",
+        "2015": "October 12", "2016": "October 10", "2017": "October 9", "2018": "October 8",
+        "2019": "October 14", "2020": "October 12", "2021": "October 11", "2022": "October 10",
+        "2023": "October 9", "2024": "October 14", "2025": "October 13", "2026": "October 12"
+      }
+    },
+    "Remembrance Day": {
+      "Name": "Remembrance Day",
+      "Photos": {
+        "1999": "November 11", "2000": "November 11", "2001": "November 11", "2002": "November 11",
+        "2003": "November 11", "2004": "November 11", "2005": "November 11", "2006": "November 11",
+        "2007": "November 11", "2008": "November 11", "2009": "November 11", "2010": "November 11",
+        "2011": "November 11", "2012": "November 11", "2013": "November 11", "2014": "November 11",
+        "2015": "November 11", "2016": "November 11", "2017": "November 11", "2018": "November 11",
+        "2019": "November 11", "2020": "November 11", "2021": "November 11", "2022": "November 11",
+        "2023": "November 11", "2024": "November 11", "2025": "November 11", "2026": "November 11"
+      }
+    },
+    "Family Day": {
+      "Name": "Family Day",
+      "Photos": {
+        "1999": "February 15", "2000": "February 21", "2001": "February 19", "2002": "February 18",
+        "2003": "February 17", "2004": "February 16", "2005": "February 21", "2006": "February 20",
+        "2007": "February 19", "2008": "February 18", "2009": "February 16", "2010": "February 15",
+        "2011": "February 21", "2012": "February 20", "2013": "February 18", "2014": "February 17",
+        "2015": "February 16", "2016": "February 15", "2017": "February 20", "2018": "February 19",
+        "2019": "February 18", "2020": "February 17", "2021": "February 15", "2022": "February 21",
+        "2023": "February 20", "2024": "February 19", "2025": "February 17", "2026": "February 16"
+      }
+    },
+    "Easter Monday": {
+      "Name": "Easter Monday",
+      "Photos": {
+        "1999": "April 5", "2000": "April 24", "2001": "April 16", "2002": "April 1",
+        "2003": "April 21", "2004": "April 12", "2005": "March 28", "2006": "April 17",
+        "2007": "April 9", "2008": "March 24", "2009": "April 13", "2010": "April 5",
+        "2011": "April 25", "2012": "April 9", "2013": "April 1", "2014": "April 21",
+        "2015": "April 6", "2016": "March 28", "2017": "April 17", "2018": "April 2",
+        "2019": "April 22", "2020": "April 13", "2021": "April 5", "2022": "April 18",
+        "2023": "April 10", "2024": "April 1", "2025": "April 21", "2026": "April 6"
+      }
+    }
+  }
+}

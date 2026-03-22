@@ -1,0 +1,88 @@
+{
+  "DataKeyPairDictionary": {
+    "New Year": {
+      "Name": "New Year",
+      "Photos": {
+        "1999": "January 1", "2000": "January 1", "2001": "January 1", "2002": "January 1",
+        "2003": "January 1", "2004": "January 1", "2005": "January 1", "2006": "January 1",
+        "2007": "January 1", "2008": "January 1", "2009": "January 1", "2010": "January 1",
+        "2011": "January 1", "2012": "January 1", "2013": "January 1", "2014": "January 1",
+        "2015": "January 1", "2016": "January 1", "2017": "January 1", "2018": "January 1",
+        "2019": "January 1", "2020": "January 1", "2021": "January 1", "2022": "January 1",
+        "2023": "January 1", "2024": "January 1", "2025": "January 1", "2026": "January 1"
+      }
+    },
+    "Setsubun": {
+      "Name": "Setsubun",
+      "Photos": {
+        "1999": "February 3", "2000": "February 3", "2001": "February 3", "2002": "February 3",
+        "2003": "February 3", "2004": "February 3", "2005": "February 3", "2006": "February 3",
+        "2007": "February 3", "2008": "February 3", "2009": "February 3", "2010": "February 3",
+        "2011": "February 3", "2012": "February 3", "2013": "February 3", "2014": "February 3",
+        "2015": "February 3", "2016": "February 3", "2017": "February 3", "2018": "February 3",
+        "2019": "February 3", "2020": "February 3", "2021": "February 2", "2022": "February 3",
+        "2023": "February 3", "2024": "February 3", "2025": "February 3", "2026": "February 3"
+      }
+    },
+    "Hinamatsuri": {
+      "Name": "Hinamatsuri",
+      "Photos": {
+        "1999": "March 3", "2000": "March 3", "2001": "March 3", "2002": "March 3",
+        "2003": "March 3", "2004": "March 3", "2005": "March 3", "2006": "March 3",
+        "2007": "March 3", "2008": "March 3", "2009": "March 3", "2010": "March 3",
+        "2011": "March 3", "2012": "March 3", "2013": "March 3", "2014": "March 3",
+        "2015": "March 3", "2016": "March 3", "2017": "March 3", "2018": "March 3",
+        "2019": "March 3", "2020": "March 3", "2021": "March 3", "2022": "March 3",
+        "2023": "March 3", "2024": "March 3", "2025": "March 3", "2026": "March 3"
+      }
+    },
+    "Showa Day": {
+      "Name": "Showa Day",
+      "Photos": {
+        "1999": "April 29", "2000": "April 29", "2001": "April 29", "2002": "April 29",
+        "2003": "April 29", "2004": "April 29", "2005": "April 29", "2006": "April 29",
+        "2007": "April 29", "2008": "April 29", "2009": "April 29", "2010": "April 29",
+        "2011": "April 29", "2012": "April 29", "2013": "April 29", "2014": "April 29",
+        "2015": "April 29", "2016": "April 29", "2017": "April 29", "2018": "April 29",
+        "2019": "April 29", "2020": "April 29", "2021": "April 29", "2022": "April 29",
+        "2023": "April 29", "2024": "April 29", "2025": "April 29", "2026": "April 29"
+      }
+    },
+    "Tanabata": {
+      "Name": "Tanabata",
+      "Photos": {
+        "1999": "July 7", "2000": "July 7", "2001": "July 7", "2002": "July 7",
+        "2003": "July 7", "2004": "July 7", "2005": "July 7", "2006": "July 7",
+        "2007": "July 7", "2008": "July 7", "2009": "July 7", "2010": "July 7",
+        "2011": "July 7", "2012": "July 7", "2013": "July 7", "2014": "July 7",
+        "2015": "July 7", "2016": "July 7", "2017": "July 7", "2018": "July 7",
+        "2019": "July 7", "2020": "July 7", "2021": "July 7", "2022": "July 7",
+        "2023": "July 7", "2024": "July 7", "2025": "July 7", "2026": "July 7"
+      }
+    },
+    "Obon": {
+      "Name": "Obon",
+      "Photos": {
+        "1999": "August 15", "2000": "August 15", "2001": "August 15", "2002": "August 15",
+        "2003": "August 15", "2004": "August 15", "2005": "August 15", "2006": "August 15",
+        "2007": "August 15", "2008": "August 15", "2009": "August 15", "2010": "August 15",
+        "2011": "August 15", "2012": "August 15", "2013": "August 15", "2014": "August 15",
+        "2015": "August 15", "2016": "August 15", "2017": "August 15", "2018": "August 15",
+        "2019": "August 15", "2020": "August 15", "2021": "August 15", "2022": "August 15",
+        "2023": "August 15", "2024": "August 15", "2025": "August 15", "2026": "August 15"
+      }
+    },
+    "Shichi-Go-San": {
+      "Name": "Shichi-Go-San",
+      "Photos": {
+        "1999": "November 15", "2000": "November 15", "2001": "November 15", "2002": "November 15",
+        "2003": "November 15", "2004": "November 15", "2005": "November 15", "2006": "November 15",
+        "2007": "November 15", "2008": "November 15", "2009": "November 15", "2010": "November 15",
+        "2011": "November 15", "2012": "November 15", "2013": "November 15", "2014": "November 15",
+        "2015": "November 15", "2016": "November 15", "2017": "November 15", "2018": "November 15",
+        "2019": "November 15", "2020": "November 15", "2021": "November 15", "2022": "November 15",
+        "2023": "November 15", "2024": "November 15", "2025": "November 15", "2026": "November 15"
+      }
+    }
+  }
+}
