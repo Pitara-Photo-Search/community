@@ -12,7 +12,9 @@ A free, on-device alternative to Google Photos search — no upload, no account,
 
 ---
 
-![Pitara screenshot](assets/screenshot.png)
+![Pitara search](assets/screenshot1.webp)
+![Pitara browse](assets/screenshot2.webp)
+![Pitara discover](assets/screenshot3.webp)
 
 ---
 
