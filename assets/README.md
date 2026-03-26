@@ -1,5 +1,9 @@
 # Assets
 
-Place `screenshot.png` in this folder — it is referenced by the main README.
+Screenshots referenced by the main README.
 
-Recommended: a cropped screenshot of the Pitara search bar with results visible, roughly 1200×600 px.
+| File | Shows |
+|------|-------|
+| `MainScreen.webp` | Natural language search with bulk tagging dialog |
+| `MainScreen2.webp` | Places catalog |
+| `MainScreen3.webp` | Search results grid |
